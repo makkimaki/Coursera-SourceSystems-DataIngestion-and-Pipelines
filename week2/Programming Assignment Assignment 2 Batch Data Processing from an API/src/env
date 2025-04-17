@@ -1,0 +1,3 @@
+CLIENT_ID=<spotify client id>
+CLIENT_SECRET=<spotify client secret>
+AAP_NAME=spotify-app
